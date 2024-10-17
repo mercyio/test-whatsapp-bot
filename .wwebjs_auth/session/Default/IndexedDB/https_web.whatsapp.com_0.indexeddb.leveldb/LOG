@@ -1,0 +1,15 @@
+2024/10/15-00:09:45.027 13f87 Reusing MANIFEST /home/mercyvincent/Desktop/Personnal/express.js/whatsapp-web.js-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/15-00:09:45.028 13f87 Recovering log #5974
+2024/10/15-00:09:45.080 13f87 Reusing old log /home/mercyvincent/Desktop/Personnal/express.js/whatsapp-web.js-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/005974.log 
+2024/10/15-00:09:47.991 13f71 Level-0 table #5980: started
+2024/10/15-00:09:48.029 13f71 Level-0 table #5980: 345094 bytes OK
+2024/10/15-00:09:48.036 13f71 Delete type=0 #5974
+2024/10/15-00:09:48.037 13f71 Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/15-00:09:51.661 13f7a Compacting 1@1 + 2@2 files
+2024/10/15-00:09:51.929 13f7a Generated table #5981@1: 47361 keys, 2206363 bytes
+2024/10/15-00:09:52.028 13f7a Generated table #5982@1: 15486 keys, 643543 bytes
+2024/10/15-00:09:52.028 13f7a Compacted 1@1 + 2@2 files => 2849906 bytes
+2024/10/15-00:09:52.035 13f7a compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/10/15-00:09:52.035 13f7a Delete type=2 #5976
+2024/10/15-00:09:52.035 13f7a Delete type=2 #5977
+2024/10/15-00:09:52.036 13f7a Delete type=2 #5980
